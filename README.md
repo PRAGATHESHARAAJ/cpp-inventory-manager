@@ -1,0 +1,2 @@
+# cpp-inventory-manager
+This project is a simple yet functional Inventory Management System developed in C++. It features an admin login system, product CRUD operations (Create, Read, Update, Delete), low stock alerts, and category-wise reporting. The application uses binary file I/O for data persistence and leverages OOP and STL concepts. It's designed to run in a command-line interface (CLI), making it lightweight and ideal for quick demos, learning C++ with file handling, or small-scale stock management.
